@@ -1,0 +1,24 @@
+.root {
+	font-family: Arial;
+}
+
+.container {
+	max-width: 1600px;
+	margin: 0 auto;
+	padding: 0 10px;
+}
+
+.main{
+	display: flex;
+	justify-content: space-between;
+}
+
+.category {
+	cursor: pointer;
+}
+
+.product {
+	cursor: pointer;
+}
+
+
